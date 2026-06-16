@@ -1,0 +1,5514 @@
+[
+  {
+    "query": "детский сандалии 32 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "32"
+      ]
+    }
+  },
+  {
+    "query": "простыня 145x215 см см",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "145x215 см"
+      ]
+    }
+  },
+  {
+    "query": "Apple планшет 256GB жёлтый",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "256GB"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ]
+    }
+  },
+  {
+    "query": "зелёный пиджак кашемир",
+    "attributes": {
+      "MATERIALS": [
+        "кашемир"
+      ],
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 32 гб",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ]
+    }
+  },
+  {
+    "query": "весы кухонные 1.5 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "весы кухонные"
+      ],
+      "WEIGHT": [
+        "1.5 кг"
+      ]
+    }
+  },
+  {
+    "query": "sku_draft_111",
+    "attributes": {}
+  },
+  {
+    "query": "наволочка кашемир серый 140x200",
+    "attributes": {
+      "CATEGORIES": [
+        "наволочка"
+      ],
+      "TEXTILE_DIMS": [
+        "140x200"
+      ],
+      "COLORS": [
+        "серый"
+      ],
+      "MATERIALS": [
+        "кашемир"
+      ]
+    }
+  },
+  {
+    "query": "бракованный артикул xyz",
+    "attributes": {}
+  },
+  {
+    "query": "смартфон экран 14 дюймов",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "SCREEN_DIAGONALS": [
+        "14 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "54р ветровка",
+    "attributes": {
+      "CATEGORIES": [
+        "ветровка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "54"
+      ]
+    }
+  },
+  {
+    "query": "??",
+    "attributes": {}
+  },
+  {
+    "query": "Nike",
+    "attributes": {
+      "BRANDS": [
+        "Nike"
+      ]
+    }
+  },
+  {
+    "query": "no_name_product",
+    "attributes": {}
+  },
+  {
+    "query": "детская платье 158",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "158"
+      ]
+    }
+  },
+  {
+    "query": "200x220 шёлк оранжевый подушка",
+    "attributes": {
+      "CATEGORIES": [
+        "подушка"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ],
+      "COLORS": [
+        "оранжевый"
+      ],
+      "MATERIALS": [
+        "шёлк"
+      ]
+    }
+  },
+  {
+    "query": "детская футболка 140",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "140"
+      ]
+    }
+  },
+  {
+    "query": "джинсы skinny",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "skinny"
+      ]
+    }
+  },
+  {
+    "query": "Пума",
+    "attributes": {
+      "BRANDS": [
+        "Пума"
+      ]
+    }
+  },
+  {
+    "query": "подушка лен хаки 50x70",
+    "attributes": {
+      "CATEGORIES": [
+        "подушка"
+      ],
+      "TEXTILE_DIMS": [
+        "50x70"
+      ],
+      "COLORS": [
+        "хаки"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "простыня 50x70 см",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "50x70"
+      ]
+    }
+  },
+  {
+    "query": "x1z2y3",
+    "attributes": {}
+  },
+  {
+    "query": "Apple смартфон 32GB 14 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "14 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "мокасины 38р",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "детские серый сапоги размер 21",
+    "attributes": {
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "21"
+      ],
+      "COLORS": [
+        "серый"
+      ]
+    }
+  },
+  {
+    "query": "наволочка размер 200x220",
+    "attributes": {
+      "CATEGORIES": [
+        "наволочка"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ]
+    }
+  },
+  {
+    "query": "шейкер 500 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "шейкер"
+      ],
+      "VOLUME": [
+        "500 мл"
+      ]
+    }
+  },
+  {
+    "query": "null значение",
+    "attributes": {}
+  },
+  {
+    "query": "футболка купить",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ]
+    }
+  },
+  {
+    "query": "Columbia платье loose фиолетовый",
+    "attributes": {
+      "BRANDS": [
+        "Columbia"
+      ],
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ]
+    }
+  },
+  {
+    "query": "детские мокасины размер 23",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "23"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi смартфон 512GB 12.9\"",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "512GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "12.9\""
+      ]
+    }
+  },
+  {
+    "query": "бежевый рюкзак",
+    "attributes": {
+      "COLORS": [
+        "бежевый"
+      ],
+      "CATEGORIES": [
+        "рюкзак"
+      ]
+    }
+  },
+  {
+    "query": "рубашка M",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "M"
+      ]
+    }
+  },
+  {
+    "query": "смартфон",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ]
+    }
+  },
+  {
+    "query": "50x70 флис зелёный простыня",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "50x70"
+      ],
+      "COLORS": [
+        "зелёный"
+      ],
+      "MATERIALS": [
+        "флис"
+      ]
+    }
+  },
+  {
+    "query": "Тёмно-синий кофта",
+    "attributes": {
+      "COLORS": [
+        "тёмно-синий"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ]
+    }
+  },
+  {
+    "query": "ASUS",
+    "attributes": {
+      "BRANDS": [
+        "ASUS"
+      ]
+    }
+  },
+  {
+    "query": "детские серый ботинки размер 27",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "27"
+      ],
+      "COLORS": [
+        "серый"
+      ]
+    }
+  },
+  {
+    "query": "Calvin Klein детская джинсы 110 зеленый",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "110"
+      ],
+      "COLORS": [
+        "зеленый"
+      ],
+      "BRANDS": [
+        "Calvin Klein"
+      ]
+    }
+  },
+  {
+    "query": "navy ноутбук",
+    "attributes": {
+      "COLORS": [
+        "navy"
+      ],
+      "CATEGORIES": [
+        "ноутбук"
+      ]
+    }
+  },
+  {
+    "query": "загрузка тест zzz",
+    "attributes": {}
+  },
+  {
+    "query": "Befree футболка оверсайз белый",
+    "attributes": {
+      "BRANDS": [
+        "Befree"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "оверсайз"
+      ],
+      "COLORS": [
+        "белый"
+      ]
+    }
+  },
+  {
+    "query": "проверка загрузки каталога",
+    "attributes": {}
+  },
+  {
+    "query": "q1w2e3r4",
+    "attributes": {}
+  },
+  {
+    "query": "Samsung телефон 4GB 15.6 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "4GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "15.6 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "штанга 5 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "штанга"
+      ],
+      "WEIGHT": [
+        "5 кг"
+      ]
+    }
+  },
+  {
+    "query": "джинсы облегающий",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "облегающий"
+      ]
+    }
+  },
+  {
+    "query": "загрузка файла",
+    "attributes": {}
+  },
+  {
+    "query": "детские мокасины 22р",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "22"
+      ]
+    }
+  },
+  {
+    "query": "mock-product-007",
+    "attributes": {}
+  },
+  {
+    "query": "рубашка slim fit",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_FIT": [
+        "slim fit"
+      ]
+    }
+  },
+  {
+    "query": "лоферы 38р",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "ноутбук 32 гб",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ]
+    }
+  },
+  {
+    "query": "H&M детская платье 128 розовый",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "128"
+      ],
+      "COLORS": [
+        "розовый"
+      ],
+      "BRANDS": [
+        "H&M"
+      ]
+    }
+  },
+  {
+    "query": "розовый пиджак 45",
+    "attributes": {
+      "COLORS": [
+        "розовый"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "45"
+      ]
+    }
+  },
+  {
+    "query": "ref 8847291",
+    "attributes": {}
+  },
+  {
+    "query": "рюкзак Рибок зеленый",
+    "attributes": {
+      "BRANDS": [
+        "Рибок"
+      ],
+      "COLORS": [
+        "зеленый"
+      ],
+      "CATEGORIES": [
+        "рюкзак"
+      ]
+    }
+  },
+  {
+    "query": "гантели 1.5 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "гантели"
+      ],
+      "WEIGHT": [
+        "1.5 кг"
+      ]
+    }
+  },
+  {
+    "query": "temp_001_check",
+    "attributes": {}
+  },
+  {
+    "query": "sample123abc",
+    "attributes": {}
+  },
+  {
+    "query": "футболка размер экс эль",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XL"
+      ]
+    }
+  },
+  {
+    "query": "12-ab-99-zz",
+    "attributes": {}
+  },
+  {
+    "query": "детская зеленый футболка 152",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "152"
+      ],
+      "COLORS": [
+        "зеленый"
+      ]
+    }
+  },
+  {
+    "query": "хлопок подушка мятный",
+    "attributes": {
+      "MATERIALS": [
+        "хлопок"
+      ],
+      "COLORS": [
+        "мятный"
+      ],
+      "CATEGORIES": [
+        "подушка"
+      ]
+    }
+  },
+  {
+    "query": "детские оранжевый кеды размер 30",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "30"
+      ],
+      "COLORS": [
+        "оранжевый"
+      ]
+    }
+  },
+  {
+    "query": "Apple платье regular fit антрацит",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "regular fit"
+      ],
+      "COLORS": [
+        "антрацит"
+      ]
+    }
+  },
+  {
+    "query": "платье размер 39",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "39"
+      ]
+    }
+  },
+  {
+    "query": "временная позиция",
+    "attributes": {}
+  },
+  {
+    "query": "подушка 200x220",
+    "attributes": {
+      "CATEGORIES": [
+        "подушка"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ]
+    }
+  },
+  {
+    "query": "коричневый планшет Columbia",
+    "attributes": {
+      "BRANDS": [
+        "Columbia"
+      ],
+      "COLORS": [
+        "коричневый"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ]
+    }
+  },
+  {
+    "query": "ПУХОВИК недорого",
+    "attributes": {
+      "CATEGORIES": [
+        "пуховик"
+      ]
+    }
+  },
+  {
+    "query": "чёрный ботинки",
+    "attributes": {
+      "COLORS": [
+        "чёрный"
+      ],
+      "CATEGORIES": [
+        "ботинки"
+      ]
+    }
+  },
+  {
+    "query": "рубашка loose",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ]
+    }
+  },
+  {
+    "query": "150x200 одеяло",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "TEXTILE_DIMS": [
+        "150x200"
+      ]
+    }
+  },
+  {
+    "query": "футболка skinny",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "skinny"
+      ]
+    }
+  },
+  {
+    "query": "шейкер 1.2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "шейкер"
+      ],
+      "VOLUME": [
+        "1.2 л"
+      ]
+    }
+  },
+  {
+    "query": "лоферы",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ]
+    }
+  },
+  {
+    "query": "сандалии размер 40",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "40"
+      ]
+    }
+  },
+  {
+    "query": "комбинезон для девочки 140 см",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "140"
+      ]
+    }
+  },
+  {
+    "query": "свитер размер ЭС",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "свитер slim fit",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_FIT": [
+        "slim fit"
+      ]
+    }
+  },
+  {
+    "query": "Samsung смартфон 512GB 6.7 дюйма",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "512GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "6.7 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "зеленый пиджак 44",
+    "attributes": {
+      "COLORS": [
+        "зеленый"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "44"
+      ]
+    }
+  },
+  {
+    "query": "молочный Рибок куртка",
+    "attributes": {
+      "BRANDS": [
+        "Рибок"
+      ],
+      "COLORS": [
+        "молочный"
+      ],
+      "CATEGORIES": [
+        "куртка"
+      ]
+    }
+  },
+  {
+    "query": "планшет 55 дюймов",
+    "attributes": {
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "SCREEN_DIAGONALS": [
+        "55 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "пиджак размер S",
+    "attributes": {
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "мокасины 39р",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "39"
+      ]
+    }
+  },
+  {
+    "query": "весы кухонные 3 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "весы кухонные"
+      ],
+      "WEIGHT": [
+        "3 кг"
+      ]
+    }
+  },
+  {
+    "query": "жёлтый юбка",
+    "attributes": {
+      "COLORS": [
+        "жёлтый"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ]
+    }
+  },
+  {
+    "query": "артикул XZY8812",
+    "attributes": {}
+  },
+  {
+    "query": "платье размер M",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "M"
+      ]
+    }
+  },
+  {
+    "query": "детские жёлтый сандалии размер 32",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "32"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ]
+    }
+  },
+  {
+    "query": "Мокасины",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ]
+    }
+  },
+  {
+    "query": "детские сандалии 30р",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "30"
+      ]
+    }
+  },
+  {
+    "query": "40 размер мокасины",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "40"
+      ]
+    }
+  },
+  {
+    "query": "телевизор экран 55 дюймов",
+    "attributes": {
+      "CATEGORIES": [
+        "телевизор"
+      ],
+      "SCREEN_DIAGONALS": [
+        "55 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "гантели 500 г",
+    "attributes": {
+      "CATEGORIES": [
+        "гантели"
+      ],
+      "WEIGHT": [
+        "500 г"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 43 дюйма",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "SCREEN_DIAGONALS": [
+        "43 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "детские лоферы 26р",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "26"
+      ]
+    }
+  },
+  {
+    "query": "Зелёный юбка",
+    "attributes": {
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ]
+    }
+  },
+  {
+    "query": "темно-синий стиральная машина",
+    "attributes": {
+      "COLORS": [
+        "темно-синий"
+      ],
+      "CATEGORIES": [
+        "стиральная машина"
+      ]
+    }
+  },
+  {
+    "query": "Lenovo смартфон 1TB синий",
+    "attributes": {
+      "BRANDS": [
+        "Lenovo"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "1TB"
+      ],
+      "COLORS": [
+        "синий"
+      ]
+    }
+  },
+  {
+    "query": "999888777",
+    "attributes": {}
+  },
+  {
+    "query": "Tommy Hilfiger детская комбинезон 116 антрацит",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "116"
+      ],
+      "COLORS": [
+        "антрацит"
+      ],
+      "BRANDS": [
+        "Tommy Hilfiger"
+      ]
+    }
+  },
+  {
+    "query": "блендер 2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "блендер"
+      ],
+      "VOLUME": [
+        "2 л"
+      ]
+    }
+  },
+  {
+    "query": "детский футболка 122 см рост",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "122"
+      ]
+    }
+  },
+  {
+    "query": "неизвестный товар 404",
+    "attributes": {}
+  },
+  {
+    "query": "детские фиолетовый лоферы размер 26",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "26"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ]
+    }
+  },
+  {
+    "query": "штанга 2 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "штанга"
+      ],
+      "WEIGHT": [
+        "2 кг"
+      ]
+    }
+  },
+  {
+    "query": "полотенце купить",
+    "attributes": {
+      "CATEGORIES": [
+        "полотенце"
+      ]
+    }
+  },
+  {
+    "query": "одеяло 150x200 см",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "TEXTILE_DIMS": [
+        "150x200"
+      ]
+    }
+  },
+  {
+    "query": "Huawei смартфон 32 гб",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ]
+    }
+  },
+  {
+    "query": "желтый кофта 48",
+    "attributes": {
+      "COLORS": [
+        "желтый"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "48"
+      ]
+    }
+  },
+  {
+    "query": "sku001122test",
+    "attributes": {}
+  },
+  {
+    "query": "Tommy Hilfiger пиджак L",
+    "attributes": {
+      "BRANDS": [
+        "Tommy Hilfiger"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "150x200 кожа простыня тёмно-синий",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "150x200"
+      ],
+      "COLORS": [
+        "тёмно-синий"
+      ],
+      "MATERIALS": [
+        "кожа"
+      ]
+    }
+  },
+  {
+    "query": "Under Armour детская комбинезон 140 голубой",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "140"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "BRANDS": [
+        "Under Armour"
+      ]
+    }
+  },
+  {
+    "query": "штанга 1.5 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "штанга"
+      ],
+      "WEIGHT": [
+        "1.5 кг"
+      ]
+    }
+  },
+  {
+    "query": "джинсы размер XS",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XS"
+      ]
+    }
+  },
+  {
+    "query": "ноутбук 32GB памяти",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ]
+    }
+  },
+  {
+    "query": "Новый Баланс M куртка",
+    "attributes": {
+      "BRANDS": [
+        "Новый Баланс"
+      ],
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "M"
+      ]
+    }
+  },
+  {
+    "query": "Reebok",
+    "attributes": {
+      "BRANDS": [
+        "Reebok"
+      ]
+    }
+  },
+  {
+    "query": "ботинки 40",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "40"
+      ]
+    }
+  },
+  {
+    "query": "item_no_data",
+    "attributes": {}
+  },
+  {
+    "query": "велюр платье",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "MATERIALS": [
+        "велюр"
+      ]
+    }
+  },
+  {
+    "query": "наволочка",
+    "attributes": {
+      "CATEGORIES": [
+        "наволочка"
+      ]
+    }
+  },
+  {
+    "query": "графитовый пиджак 42",
+    "attributes": {
+      "COLORS": [
+        "графитовый"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "42"
+      ]
+    }
+  },
+  {
+    "query": "юбка из лён",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "MATERIALS": [
+        "лён"
+      ]
+    }
+  },
+  {
+    "query": "14 дюймов ноутбук",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "SCREEN_DIAGONALS": [
+        "14 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "Apple планшет 16GB синий",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "16GB"
+      ],
+      "COLORS": [
+        "синий"
+      ]
+    }
+  },
+  {
+    "query": "кофта мятный размер 38",
+    "attributes": {
+      "COLORS": [
+        "мятный"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "сапоги 37р",
+    "attributes": {
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "37"
+      ]
+    }
+  },
+  {
+    "query": "LG",
+    "attributes": {
+      "BRANDS": [
+        "LG"
+      ]
+    }
+  },
+  {
+    "query": "рубашка облегающий",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_FIT": [
+        "облегающий"
+      ]
+    }
+  },
+  {
+    "query": "туфли",
+    "attributes": {
+      "CATEGORIES": [
+        "туфли"
+      ]
+    }
+  },
+  {
+    "query": "пальто размер 41",
+    "attributes": {
+      "CATEGORIES": [
+        "пальто"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "41"
+      ]
+    }
+  },
+  {
+    "query": "ветровка из бамбук бежевый",
+    "attributes": {
+      "MATERIALS": [
+        "бамбук"
+      ],
+      "COLORS": [
+        "бежевый"
+      ],
+      "CATEGORIES": [
+        "ветровка"
+      ]
+    }
+  },
+  {
+    "query": "серый 46р Рибок мокасины",
+    "attributes": {
+      "BRANDS": [
+        "Reebok"
+      ],
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "46"
+      ],
+      "COLORS": [
+        "серый"
+      ]
+    }
+  },
+  {
+    "query": "кроссовки XL",
+    "attributes": {
+      "CATEGORIES": [
+        "кроссовки"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XL"
+      ]
+    }
+  },
+  {
+    "query": "удалить после проверки",
+    "attributes": {}
+  },
+  {
+    "query": "рубашка р-р 38",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "простыня голубой 70x70 см акрил",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "70x70 см"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "MATERIALS": [
+        "акрил"
+      ]
+    }
+  },
+  {
+    "query": "65\" ноутбук",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "SCREEN_DIAGONALS": [
+        "65\""
+      ]
+    }
+  },
+  {
+    "query": "блендер 750 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "блендер"
+      ],
+      "VOLUME": [
+        "750 мл"
+      ]
+    }
+  },
+  {
+    "query": "футболка oversize",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "oversize"
+      ]
+    }
+  },
+  {
+    "query": "одеяло из лен",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "туфли 42",
+    "attributes": {
+      "CATEGORIES": [
+        "туфли"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "42"
+      ]
+    }
+  },
+  {
+    "query": "90x200 полотенце",
+    "attributes": {
+      "CATEGORIES": [
+        "полотенце"
+      ],
+      "TEXTILE_DIMS": [
+        "90x200"
+      ]
+    }
+  },
+  {
+    "query": "navy наволочка шёлк",
+    "attributes": {
+      "MATERIALS": [
+        "шёлк"
+      ],
+      "COLORS": [
+        "navy"
+      ],
+      "CATEGORIES": [
+        "наволочка"
+      ]
+    }
+  },
+  {
+    "query": "52р ветровка молочный",
+    "attributes": {
+      "COLORS": [
+        "молочный"
+      ],
+      "CATEGORIES": [
+        "ветровка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "52"
+      ]
+    }
+  },
+  {
+    "query": "бутылка для воды 300 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "бутылка для воды"
+      ],
+      "VOLUME": [
+        "300 мл"
+      ]
+    }
+  },
+  {
+    "query": "НАУШНИКИ",
+    "attributes": {
+      "CATEGORIES": [
+        "наушники"
+      ]
+    }
+  },
+  {
+    "query": "Lacoste синий сандалии 44р",
+    "attributes": {
+      "BRANDS": [
+        "Lacoste"
+      ],
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "44"
+      ],
+      "COLORS": [
+        "синий"
+      ]
+    }
+  },
+  {
+    "query": "детский сапоги 20 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "20"
+      ]
+    }
+  },
+  {
+    "query": "не определено",
+    "attributes": {}
+  },
+  {
+    "query": "ветровка",
+    "attributes": {
+      "CATEGORIES": [
+        "ветровка"
+      ]
+    }
+  },
+  {
+    "query": "демо позиция 1",
+    "attributes": {}
+  },
+  {
+    "query": "черный наволочка Uniqlo",
+    "attributes": {
+      "BRANDS": [
+        "Uniqlo"
+      ],
+      "COLORS": [
+        "черный"
+      ],
+      "CATEGORIES": [
+        "наволочка"
+      ]
+    }
+  },
+  {
+    "query": "вискоза пиджак",
+    "attributes": {
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "MATERIALS": [
+        "вискоза"
+      ]
+    }
+  },
+  {
+    "query": "детские ботинки 23р",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "23"
+      ]
+    }
+  },
+  {
+    "query": "200x220 одеяло",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 4GB памяти",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "4GB"
+      ]
+    }
+  },
+  {
+    "query": "ноутбук 2 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "WEIGHT": [
+        "2 кг"
+      ]
+    }
+  },
+  {
+    "query": "детский брюки 80 см рост",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "80"
+      ]
+    }
+  },
+  {
+    "query": "детские тёмно-синий сандалии размер 33",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "33"
+      ],
+      "COLORS": [
+        "тёмно-синий"
+      ]
+    }
+  },
+  {
+    "query": "одеяло кожа",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "MATERIALS": [
+        "кожа"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi телефон 4GB",
+    "attributes": {
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "4GB"
+      ]
+    }
+  },
+  {
+    "query": "юбка р-р 56",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "56"
+      ]
+    }
+  },
+  {
+    "query": "Uniqlo ремень желтый",
+    "attributes": {
+      "BRANDS": [
+        "Uniqlo"
+      ],
+      "COLORS": [
+        "желтый"
+      ],
+      "CATEGORIES": [
+        "ремень"
+      ]
+    }
+  },
+  {
+    "query": "полотенце 200x220",
+    "attributes": {
+      "CATEGORIES": [
+        "полотенце"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ]
+    }
+  },
+  {
+    "query": "L пуховик Levi's",
+    "attributes": {
+      "BRANDS": [
+        "Levi's"
+      ],
+      "CATEGORIES": [
+        "пуховик"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "юбка меринос",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "MATERIALS": [
+        "меринос"
+      ]
+    }
+  },
+  {
+    "query": "туфли купить",
+    "attributes": {
+      "CATEGORIES": [
+        "туфли"
+      ]
+    }
+  },
+  {
+    "query": "телефон 128GB",
+    "attributes": {
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "128GB"
+      ]
+    }
+  },
+  {
+    "query": "постельное бельё Guess бордовый",
+    "attributes": {
+      "BRANDS": [
+        "Guess"
+      ],
+      "COLORS": [
+        "бордовый"
+      ],
+      "CATEGORIES": [
+        "постельное бельё"
+      ]
+    }
+  },
+  {
+    "query": "Apple планшет 512GB фиолетовый",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "512GB"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ]
+    }
+  },
+  {
+    "query": "Under Armour платье оверсайз голубой",
+    "attributes": {
+      "BRANDS": [
+        "Under Armour"
+      ],
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "оверсайз"
+      ],
+      "COLORS": [
+        "голубой"
+      ]
+    }
+  },
+  {
+    "query": "детский джинсы рост 164",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "164"
+      ]
+    }
+  },
+  {
+    "query": "детский комбинезон рост 134",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "134"
+      ]
+    }
+  },
+  {
+    "query": "артикул без описания",
+    "attributes": {}
+  },
+  {
+    "query": "темно-синий свитер 40",
+    "attributes": {
+      "COLORS": [
+        "темно-синий"
+      ],
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "40"
+      ]
+    }
+  },
+  {
+    "query": "телевизор 6.7 дюйма",
+    "attributes": {
+      "CATEGORIES": [
+        "телевизор"
+      ],
+      "SCREEN_DIAGONALS": [
+        "6.7 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "пума бежевый 46р ботинки",
+    "attributes": {
+      "BRANDS": [
+        "Puma"
+      ],
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "46"
+      ],
+      "COLORS": [
+        "бежевый"
+      ]
+    }
+  },
+  {
+    "query": "ЭС юбка H&M",
+    "attributes": {
+      "BRANDS": [
+        "H&M"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "40р Найк сандалии жёлтый",
+    "attributes": {
+      "BRANDS": [
+        "Найк"
+      ],
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "40"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ]
+    }
+  },
+  {
+    "query": "планшет 128 гб",
+    "attributes": {
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "128 гб"
+      ]
+    }
+  },
+  {
+    "query": "детская платье 122",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "122"
+      ]
+    }
+  },
+  {
+    "query": "детские красный лоферы размер 24",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "24"
+      ],
+      "COLORS": [
+        "красный"
+      ]
+    }
+  },
+  {
+    "query": "43р брюки бежевый",
+    "attributes": {
+      "COLORS": [
+        "бежевый"
+      ],
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "43"
+      ]
+    }
+  },
+  {
+    "query": "Зелёный подушка",
+    "attributes": {
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "подушка"
+      ]
+    }
+  },
+  {
+    "query": "LG футболка облегающий зелёный",
+    "attributes": {
+      "BRANDS": [
+        "LG"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "облегающий"
+      ],
+      "COLORS": [
+        "зелёный"
+      ]
+    }
+  },
+  {
+    "query": "ботинки детские 24",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "24"
+      ]
+    }
+  },
+  {
+    "query": "гантели 5 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "гантели"
+      ],
+      "WEIGHT": [
+        "5 кг"
+      ]
+    }
+  },
+  {
+    "query": "нет данных",
+    "attributes": {}
+  },
+  {
+    "query": "брюки slim fit",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "slim fit"
+      ]
+    }
+  },
+  {
+    "query": "ASUS платье оверсайз зелёный",
+    "attributes": {
+      "BRANDS": [
+        "ASUS"
+      ],
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "оверсайз"
+      ],
+      "COLORS": [
+        "зелёный"
+      ]
+    }
+  },
+  {
+    "query": "лен простыня",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "Columbia джинсы облегающий голубой",
+    "attributes": {
+      "BRANDS": [
+        "Columbia"
+      ],
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "облегающий"
+      ],
+      "COLORS": [
+        "голубой"
+      ]
+    }
+  },
+  {
+    "query": "Рубашка в наличии",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ]
+    }
+  },
+  {
+    "query": "qwerty asdf",
+    "attributes": {}
+  },
+  {
+    "query": "нн/н",
+    "attributes": {}
+  },
+  {
+    "query": "постельное бельё 150x200",
+    "attributes": {
+      "CATEGORIES": [
+        "постельное бельё"
+      ],
+      "TEXTILE_DIMS": [
+        "150x200"
+      ]
+    }
+  },
+  {
+    "query": "zzz999",
+    "attributes": {}
+  },
+  {
+    "query": "Levi's",
+    "attributes": {
+      "BRANDS": [
+        "Levi's"
+      ]
+    }
+  },
+  {
+    "query": "фиолетовый пиджак",
+    "attributes": {
+      "COLORS": [
+        "фиолетовый"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ]
+    }
+  },
+  {
+    "query": "брюки 80р дети",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "80"
+      ]
+    }
+  },
+  {
+    "query": "кофта из велюр",
+    "attributes": {
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "MATERIALS": [
+        "велюр"
+      ]
+    }
+  },
+  {
+    "query": "---",
+    "attributes": {}
+  },
+  {
+    "query": "куртка 54",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "54"
+      ]
+    }
+  },
+  {
+    "query": "кеды 46",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "46"
+      ]
+    }
+  },
+  {
+    "query": "Calvin Klein футболка прямой крой чёрный",
+    "attributes": {
+      "BRANDS": [
+        "Calvin Klein"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "прямой крой"
+      ],
+      "COLORS": [
+        "чёрный"
+      ]
+    }
+  },
+  {
+    "query": "телефон 32 гб памяти",
+    "attributes": {
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ]
+    }
+  },
+  {
+    "query": "розовый рюкзак",
+    "attributes": {
+      "COLORS": [
+        "розовый"
+      ],
+      "CATEGORIES": [
+        "рюкзак"
+      ]
+    }
+  },
+  {
+    "query": "кастрюля 1 литр",
+    "attributes": {
+      "CATEGORIES": [
+        "кастрюля"
+      ],
+      "VOLUME": [
+        "1 литр"
+      ]
+    }
+  },
+  {
+    "query": "детские мокасины 27р",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "27"
+      ]
+    }
+  },
+  {
+    "query": "бордовый 41р туфли Uniqlo",
+    "attributes": {
+      "BRANDS": [
+        "Uniqlo"
+      ],
+      "CATEGORIES": [
+        "туфли"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "41"
+      ],
+      "COLORS": [
+        "бордовый"
+      ]
+    }
+  },
+  {
+    "query": "Пуховик купить",
+    "attributes": {
+      "CATEGORIES": [
+        "пуховик"
+      ]
+    }
+  },
+  {
+    "query": "футболка для девочки 122 см",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "122"
+      ]
+    }
+  },
+  {
+    "query": "SKU-4492211",
+    "attributes": {}
+  },
+  {
+    "query": "placeholder_card",
+    "attributes": {}
+  },
+  {
+    "query": "temp-card-002",
+    "attributes": {}
+  },
+  {
+    "query": "ноутбук 3 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "WEIGHT": [
+        "3 кг"
+      ]
+    }
+  },
+  {
+    "query": "ref_20240001",
+    "attributes": {}
+  },
+  {
+    "query": "43 размер кеды",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "43"
+      ]
+    }
+  },
+  {
+    "query": "без наименования",
+    "attributes": {}
+  },
+  {
+    "query": "Apple детский футболка 86 белый",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "86"
+      ],
+      "COLORS": [
+        "белый"
+      ]
+    }
+  },
+  {
+    "query": "аааааа бббб",
+    "attributes": {}
+  },
+  {
+    "query": "куртка L",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "кофта размер XXL",
+    "attributes": {
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XXL"
+      ]
+    }
+  },
+  {
+    "query": "LG детская комбинезон 86 чёрный",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "86"
+      ],
+      "COLORS": [
+        "чёрный"
+      ],
+      "BRANDS": [
+        "LG"
+      ]
+    }
+  },
+  {
+    "query": "шейкер 1.5 л",
+    "attributes": {
+      "CATEGORIES": [
+        "шейкер"
+      ],
+      "VOLUME": [
+        "1.5 л"
+      ]
+    }
+  },
+  {
+    "query": "Calvin Klein",
+    "attributes": {
+      "BRANDS": [
+        "Calvin Klein"
+      ]
+    }
+  },
+  {
+    "query": "000000",
+    "attributes": {}
+  },
+  {
+    "query": "кроссовки 38",
+    "attributes": {
+      "CATEGORIES": [
+        "кроссовки"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "наволочка из нейлон голубой",
+    "attributes": {
+      "MATERIALS": [
+        "нейлон"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "CATEGORIES": [
+        "наволочка"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 512GB памяти",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "512GB"
+      ]
+    }
+  },
+  {
+    "query": "чорный кофта 50",
+    "attributes": {
+      "COLORS": [
+        "чёрный"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "50"
+      ]
+    }
+  },
+  {
+    "query": "свитер зауженный",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_FIT": [
+        "зауженный"
+      ]
+    }
+  },
+  {
+    "query": "проверка системы",
+    "attributes": {}
+  },
+  {
+    "query": "фиолетовый кофемашина",
+    "attributes": {
+      "COLORS": [
+        "фиолетовый"
+      ],
+      "CATEGORIES": [
+        "кофемашина"
+      ]
+    }
+  },
+  {
+    "query": "туфли 45",
+    "attributes": {
+      "CATEGORIES": [
+        "туфли"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "45"
+      ]
+    }
+  },
+  {
+    "query": "детские кеды 26р",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "26"
+      ]
+    }
+  },
+  {
+    "query": "img_20240811_test",
+    "attributes": {}
+  },
+  {
+    "query": "Lacoste бежевый ноутбук",
+    "attributes": {
+      "BRANDS": [
+        "Lacoste"
+      ],
+      "COLORS": [
+        "бежевый"
+      ],
+      "CATEGORIES": [
+        "ноутбук"
+      ]
+    }
+  },
+  {
+    "query": "ноутбук 55 дюймов",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "SCREEN_DIAGONALS": [
+        "55 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "детские туфли 33р",
+    "attributes": {
+      "CATEGORIES": [
+        "туфли"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "33"
+      ]
+    }
+  },
+  {
+    "query": "Levi's антрацит 38р сандалии",
+    "attributes": {
+      "BRANDS": [
+        "Levi's"
+      ],
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "38"
+      ],
+      "COLORS": [
+        "антрацит"
+      ]
+    }
+  },
+  {
+    "query": "синий юбка 39",
+    "attributes": {
+      "COLORS": [
+        "синий"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "39"
+      ]
+    }
+  },
+  {
+    "query": "желтый толстовка",
+    "attributes": {
+      "COLORS": [
+        "желтый"
+      ],
+      "CATEGORIES": [
+        "толстовка"
+      ]
+    }
+  },
+  {
+    "query": "детские сандалии размер 30",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "30"
+      ]
+    }
+  },
+  {
+    "query": "из полиэстер рубашка",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "MATERIALS": [
+        "полиэстер"
+      ]
+    }
+  },
+  {
+    "query": "сапоги в наличии",
+    "attributes": {
+      "CATEGORIES": [
+        "сапоги"
+      ]
+    }
+  },
+  {
+    "query": "фото товара",
+    "attributes": {}
+  },
+  {
+    "query": "брюки купить",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ]
+    }
+  },
+  {
+    "query": "160x200 см темно-синий одеяло лен",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "TEXTILE_DIMS": [
+        "160x200 см"
+      ],
+      "COLORS": [
+        "темно-синий"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "пальто Adidas мятный",
+    "attributes": {
+      "BRANDS": [
+        "Adidas"
+      ],
+      "COLORS": [
+        "мятный"
+      ],
+      "CATEGORIES": [
+        "пальто"
+      ]
+    }
+  },
+  {
+    "query": "джинсы oversize",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "oversize"
+      ]
+    }
+  },
+  {
+    "query": "жёлтый Puma футболка",
+    "attributes": {
+      "BRANDS": [
+        "Puma"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ]
+    }
+  },
+  {
+    "query": "детские LG кеды 24 оранжевый",
+    "attributes": {
+      "BRANDS": [
+        "LG"
+      ],
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "24"
+      ],
+      "COLORS": [
+        "оранжевый"
+      ]
+    }
+  },
+  {
+    "query": "свитер loose",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ]
+    }
+  },
+  {
+    "query": "термос 2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "термос"
+      ],
+      "VOLUME": [
+        "2 л"
+      ]
+    }
+  },
+  {
+    "query": "детские Adidas сапоги 20 оранжевый",
+    "attributes": {
+      "BRANDS": [
+        "Adidas"
+      ],
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "20"
+      ],
+      "COLORS": [
+        "оранжевый"
+      ]
+    }
+  },
+  {
+    "query": "XS рубашка H&M",
+    "attributes": {
+      "BRANDS": [
+        "H&M"
+      ],
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XS"
+      ]
+    }
+  },
+  {
+    "query": "сандалии детские 22",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "22"
+      ]
+    }
+  },
+  {
+    "query": "45р юбка",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "45"
+      ]
+    }
+  },
+  {
+    "query": "из нейлон подушка",
+    "attributes": {
+      "CATEGORIES": [
+        "подушка"
+      ],
+      "MATERIALS": [
+        "нейлон"
+      ]
+    }
+  },
+  {
+    "query": "S Nike ветровка",
+    "attributes": {
+      "BRANDS": [
+        "Nike"
+      ],
+      "CATEGORIES": [
+        "ветровка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "фиолетовый рубашка хлопок",
+    "attributes": {
+      "MATERIALS": [
+        "хлопок"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ],
+      "CATEGORIES": [
+        "рубашка"
+      ]
+    }
+  },
+  {
+    "query": "ботинки 38",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "футболка оверсайз",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "оверсайз"
+      ]
+    }
+  },
+  {
+    "query": "кофемашина 300 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "кофемашина"
+      ],
+      "VOLUME": [
+        "300 мл"
+      ]
+    }
+  },
+  {
+    "query": "джинсы Guess L",
+    "attributes": {
+      "BRANDS": [
+        "Guess"
+      ],
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "проверочный товар",
+    "attributes": {}
+  },
+  {
+    "query": "50x70 простыня",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "50x70"
+      ]
+    }
+  },
+  {
+    "query": "шёлк кофта",
+    "attributes": {
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "MATERIALS": [
+        "шёлк"
+      ]
+    }
+  },
+  {
+    "query": "простыня 140x200 см",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "140x200"
+      ]
+    }
+  },
+  {
+    "query": "XXXL Nike свитер",
+    "attributes": {
+      "BRANDS": [
+        "Nike"
+      ],
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XXXL"
+      ]
+    }
+  },
+  {
+    "query": "абвгд 12345",
+    "attributes": {}
+  },
+  {
+    "query": "Apple смартфон 32GB 55 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "55 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "детские бежевый мокасины размер 22",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "22"
+      ],
+      "COLORS": [
+        "бежевый"
+      ]
+    }
+  },
+  {
+    "query": "антрацит толстовка",
+    "attributes": {
+      "COLORS": [
+        "антрацит"
+      ],
+      "CATEGORIES": [
+        "толстовка"
+      ]
+    }
+  },
+  {
+    "query": "детский джинсы рост 110",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "110"
+      ]
+    }
+  },
+  {
+    "query": "Nike детский платье 152 мятный",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "152"
+      ],
+      "COLORS": [
+        "мятный"
+      ]
+    }
+  },
+  {
+    "query": "зелёный джинсы",
+    "attributes": {
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "джинсы"
+      ]
+    }
+  },
+  {
+    "query": "Nike детская джинсы 164 мятный",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "164"
+      ],
+      "COLORS": [
+        "мятный"
+      ],
+      "BRANDS": [
+        "Nike"
+      ]
+    }
+  },
+  {
+    "query": "детский сандалии 24 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "24"
+      ]
+    }
+  },
+  {
+    "query": "платье 158р дети",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "158"
+      ]
+    }
+  },
+  {
+    "query": "zzz000yyy",
+    "attributes": {}
+  },
+  {
+    "query": "Xiaomi смартфон 32 гб 43 дюйма",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ],
+      "SCREEN_DIAGONALS": [
+        "43 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "19283746",
+    "attributes": {}
+  },
+  {
+    "query": "Reebok кофта бордовый",
+    "attributes": {
+      "BRANDS": [
+        "Reebok"
+      ],
+      "COLORS": [
+        "бордовый"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ]
+    }
+  },
+  {
+    "query": "draft item заглушка",
+    "attributes": {}
+  },
+  {
+    "query": "юбка из лен графитовый",
+    "attributes": {
+      "MATERIALS": [
+        "лен"
+      ],
+      "COLORS": [
+        "графитовый"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ]
+    }
+  },
+  {
+    "query": "из замша простыня",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "MATERIALS": [
+        "замша"
+      ]
+    }
+  },
+  {
+    "query": "платье оверсайз",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "оверсайз"
+      ]
+    }
+  },
+  {
+    "query": "ремень недорого",
+    "attributes": {
+      "CATEGORIES": [
+        "ремень"
+      ]
+    }
+  },
+  {
+    "query": "зелёный кофта 52",
+    "attributes": {
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "52"
+      ]
+    }
+  },
+  {
+    "query": "Lenovo 42р фиолетовый сапоги",
+    "attributes": {
+      "BRANDS": [
+        "Lenovo"
+      ],
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "42"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ]
+    }
+  },
+  {
+    "query": "56р футболка",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "56"
+      ]
+    }
+  },
+  {
+    "query": "пуховик бордовый размер 54",
+    "attributes": {
+      "COLORS": [
+        "бордовый"
+      ],
+      "CATEGORIES": [
+        "пуховик"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "54"
+      ]
+    }
+  },
+  {
+    "query": "кастрюля 1.2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "кастрюля"
+      ],
+      "VOLUME": [
+        "1.2 л"
+      ]
+    }
+  },
+  {
+    "query": "свитер XXL Bosch",
+    "attributes": {
+      "BRANDS": [
+        "Bosch"
+      ],
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XXL"
+      ]
+    }
+  },
+  {
+    "query": "мокасины 43р",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "43"
+      ]
+    }
+  },
+  {
+    "query": "S кофта Guess",
+    "attributes": {
+      "BRANDS": [
+        "Guess"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "детский мокасины 24 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "24"
+      ]
+    }
+  },
+  {
+    "query": "Apple смартфон 4GB 15.6 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "4GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "15.6 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "постельное бельё размер 145x215 см",
+    "attributes": {
+      "CATEGORIES": [
+        "постельное бельё"
+      ],
+      "TEXTILE_DIMS": [
+        "145x215 см"
+      ]
+    }
+  },
+  {
+    "query": "весы кухонные 500 г",
+    "attributes": {
+      "CATEGORIES": [
+        "весы кухонные"
+      ],
+      "WEIGHT": [
+        "500 г"
+      ]
+    }
+  },
+  {
+    "query": "рюкзак туристический 2 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "рюкзак туристический"
+      ],
+      "WEIGHT": [
+        "2 кг"
+      ]
+    }
+  },
+  {
+    "query": "розовый кеды 39р Tommy Hilfiger",
+    "attributes": {
+      "BRANDS": [
+        "Tommy Hilfiger"
+      ],
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "39"
+      ],
+      "COLORS": [
+        "розовый"
+      ]
+    }
+  },
+  {
+    "query": "41р футболка",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "41"
+      ]
+    }
+  },
+  {
+    "query": "платье облегающий",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_FIT": [
+        "облегающий"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi смартфон 256GB",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "256GB"
+      ]
+    }
+  },
+  {
+    "query": "детские кеды 28р",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "28"
+      ]
+    }
+  },
+  {
+    "query": "код товара АВ22981",
+    "attributes": {}
+  },
+  {
+    "query": "Футболка купить",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ]
+    }
+  },
+  {
+    "query": "портфель недорого",
+    "attributes": {
+      "CATEGORIES": [
+        "портфель"
+      ]
+    }
+  },
+  {
+    "query": "Philips",
+    "attributes": {
+      "BRANDS": [
+        "Philips"
+      ]
+    }
+  },
+  {
+    "query": "Columbia голубой простыня",
+    "attributes": {
+      "BRANDS": [
+        "Columbia"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "CATEGORIES": [
+        "простыня"
+      ]
+    }
+  },
+  {
+    "query": "тесттест123",
+    "attributes": {}
+  },
+  {
+    "query": "10.9 дюйма монитор",
+    "attributes": {
+      "CATEGORIES": [
+        "монитор"
+      ],
+      "SCREEN_DIAGONALS": [
+        "10.9 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "темно-синий кроссовки",
+    "attributes": {
+      "COLORS": [
+        "темно-синий"
+      ],
+      "CATEGORIES": [
+        "кроссовки"
+      ]
+    }
+  },
+  {
+    "query": "зеленый ремень",
+    "attributes": {
+      "COLORS": [
+        "зеленый"
+      ],
+      "CATEGORIES": [
+        "ремень"
+      ]
+    }
+  },
+  {
+    "query": "пустая карточка",
+    "attributes": {}
+  },
+  {
+    "query": "Sony",
+    "attributes": {
+      "BRANDS": [
+        "Sony"
+      ]
+    }
+  },
+  {
+    "query": "Найк",
+    "attributes": {
+      "BRANDS": [
+        "Найк"
+      ]
+    }
+  },
+  {
+    "query": "джинсы loose",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ]
+    }
+  },
+  {
+    "query": "test upload 123",
+    "attributes": {}
+  },
+  {
+    "query": "лоферы размер 38",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "demo_item_v2",
+    "attributes": {}
+  },
+  {
+    "query": "белоснежный стиральная машина",
+    "attributes": {
+      "COLORS": [
+        "белоснежный"
+      ],
+      "CATEGORIES": [
+        "стиральная машина"
+      ]
+    }
+  },
+  {
+    "query": "145x215 см подушка",
+    "attributes": {
+      "CATEGORIES": [
+        "подушка"
+      ],
+      "TEXTILE_DIMS": [
+        "145x215 см"
+      ]
+    }
+  },
+  {
+    "query": "Huawei",
+    "attributes": {
+      "BRANDS": [
+        "Huawei"
+      ]
+    }
+  },
+  {
+    "query": "лоферы жёлтый H&M 42р",
+    "attributes": {
+      "BRANDS": [
+        "H&M"
+      ],
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "42"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ]
+    }
+  },
+  {
+    "query": "XXXXXXL размер не указан",
+    "attributes": {}
+  },
+  {
+    "query": "160x200 см одеяло",
+    "attributes": {
+      "CATEGORIES": [
+        "одеяло"
+      ],
+      "TEXTILE_DIMS": [
+        "160x200 см"
+      ]
+    }
+  },
+  {
+    "query": "тёмно-синий свитер 39",
+    "attributes": {
+      "COLORS": [
+        "тёмно-синий"
+      ],
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "39"
+      ]
+    }
+  },
+  {
+    "query": "Samsung планшет 4GB чёрный",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "4GB"
+      ],
+      "COLORS": [
+        "чёрный"
+      ]
+    }
+  },
+  {
+    "query": "нет названия",
+    "attributes": {}
+  },
+  {
+    "query": "детские молочный кеды размер 32",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "32"
+      ],
+      "COLORS": [
+        "молочный"
+      ]
+    }
+  },
+  {
+    "query": "тест тест тест",
+    "attributes": {}
+  },
+  {
+    "query": "голубой Xiaomi кеды 37р",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "37"
+      ],
+      "COLORS": [
+        "голубой"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi телефон 32 гб 55 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32 гб"
+      ],
+      "SCREEN_DIAGONALS": [
+        "55 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "детский кеды 26 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "26"
+      ]
+    }
+  },
+  {
+    "query": "детский платье 80 см рост",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "80"
+      ]
+    }
+  },
+  {
+    "query": "рюкзак туристический 300 г",
+    "attributes": {
+      "CATEGORIES": [
+        "рюкзак туристический"
+      ],
+      "WEIGHT": [
+        "300 г"
+      ]
+    }
+  },
+  {
+    "query": "детские Lacoste сапоги 29 коричневый",
+    "attributes": {
+      "BRANDS": [
+        "Lacoste"
+      ],
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "29"
+      ],
+      "COLORS": [
+        "коричневый"
+      ]
+    }
+  },
+  {
+    "query": "Apple смартфон 128 гб 12.9\"",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "128 гб"
+      ],
+      "SCREEN_DIAGONALS": [
+        "12.9\""
+      ]
+    }
+  },
+  {
+    "query": "модель 2024 новинка 001",
+    "attributes": {}
+  },
+  {
+    "query": "XXL джинсы Найк",
+    "attributes": {
+      "BRANDS": [
+        "Найк"
+      ],
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XXL"
+      ]
+    }
+  },
+  {
+    "query": "гантели 3 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "гантели"
+      ],
+      "WEIGHT": [
+        "3 кг"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 32GB памяти",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ]
+    }
+  },
+  {
+    "query": "Samsung ноутбук 128GB голубой",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "128GB"
+      ],
+      "COLORS": [
+        "голубой"
+      ]
+    }
+  },
+  {
+    "query": "из меринос юбка",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "MATERIALS": [
+        "меринос"
+      ]
+    }
+  },
+  {
+    "query": "лоферы 39",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "39"
+      ]
+    }
+  },
+  {
+    "query": "рубашка прямой крой",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_FIT": [
+        "прямой крой"
+      ]
+    }
+  },
+  {
+    "query": "Nike брюки loose зелёный",
+    "attributes": {
+      "BRANDS": [
+        "Nike"
+      ],
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ],
+      "COLORS": [
+        "зелёный"
+      ]
+    }
+  },
+  {
+    "query": "из синтетика кофта",
+    "attributes": {
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "MATERIALS": [
+        "синтетика"
+      ]
+    }
+  },
+  {
+    "query": "мокасины 41",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "41"
+      ]
+    }
+  },
+  {
+    "query": "Кроссовки",
+    "attributes": {
+      "CATEGORIES": [
+        "кроссовки"
+      ]
+    }
+  },
+  {
+    "query": "футболка M",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "M"
+      ]
+    }
+  },
+  {
+    "query": "Huawei ноутбук 1TB графитовый",
+    "attributes": {
+      "BRANDS": [
+        "Huawei"
+      ],
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "1TB"
+      ],
+      "COLORS": [
+        "графитовый"
+      ]
+    }
+  },
+  {
+    "query": "Bosch",
+    "attributes": {
+      "BRANDS": [
+        "Bosch"
+      ]
+    }
+  },
+  {
+    "query": "футболка loose",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "loose"
+      ]
+    }
+  },
+  {
+    "query": "мокасины 41р Lacoste navy",
+    "attributes": {
+      "BRANDS": [
+        "Lacoste"
+      ],
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "41"
+      ],
+      "COLORS": [
+        "navy"
+      ]
+    }
+  },
+  {
+    "query": "нулевой товар",
+    "attributes": {}
+  },
+  {
+    "query": "Куртка",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ]
+    }
+  },
+  {
+    "query": "70x70 см наволочка",
+    "attributes": {
+      "CATEGORIES": [
+        "наволочка"
+      ],
+      "TEXTILE_DIMS": [
+        "70x70 см"
+      ]
+    }
+  },
+  {
+    "query": "без_имени_99",
+    "attributes": {}
+  },
+  {
+    "query": "футболка slim fit",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "slim fit"
+      ]
+    }
+  },
+  {
+    "query": "кастрюля 750 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "кастрюля"
+      ],
+      "VOLUME": [
+        "750 мл"
+      ]
+    }
+  },
+  {
+    "query": "Lenovo смартфон 256 гб тёмно-синий",
+    "attributes": {
+      "BRANDS": [
+        "Lenovo"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "256 гб"
+      ],
+      "COLORS": [
+        "тёмно-синий"
+      ]
+    }
+  },
+  {
+    "query": "Пылесос",
+    "attributes": {
+      "CATEGORIES": [
+        "пылесос"
+      ]
+    }
+  },
+  {
+    "query": "юбка р-р 54",
+    "attributes": {
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "54"
+      ]
+    }
+  },
+  {
+    "query": "флис одеяло голубой",
+    "attributes": {
+      "MATERIALS": [
+        "флис"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "CATEGORIES": [
+        "одеяло"
+      ]
+    }
+  },
+  {
+    "query": "детские антрацит мокасины размер 25",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "25"
+      ],
+      "COLORS": [
+        "антрацит"
+      ]
+    }
+  },
+  {
+    "query": "пуховик лен",
+    "attributes": {
+      "CATEGORIES": [
+        "пуховик"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "item_placeholder_01",
+    "attributes": {}
+  },
+  {
+    "query": "монитор",
+    "attributes": {
+      "CATEGORIES": [
+        "монитор"
+      ]
+    }
+  },
+  {
+    "query": "проверочный товар 555",
+    "attributes": {}
+  },
+  {
+    "query": "графитовый платье",
+    "attributes": {
+      "COLORS": [
+        "графитовый"
+      ],
+      "CATEGORIES": [
+        "платье"
+      ]
+    }
+  },
+  {
+    "query": "тестовый товар удалить",
+    "attributes": {}
+  },
+  {
+    "query": "детская джинсы 104",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "104"
+      ]
+    }
+  },
+  {
+    "query": "футболка ASUS XS",
+    "attributes": {
+      "BRANDS": [
+        "ASUS"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XS"
+      ]
+    }
+  },
+  {
+    "query": "жёлтый толстовка",
+    "attributes": {
+      "COLORS": [
+        "жёлтый"
+      ],
+      "CATEGORIES": [
+        "толстовка"
+      ]
+    }
+  },
+  {
+    "query": "рубашка желтый размер 56",
+    "attributes": {
+      "COLORS": [
+        "желтый"
+      ],
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "56"
+      ]
+    }
+  },
+  {
+    "query": "Befree",
+    "attributes": {
+      "BRANDS": [
+        "Befree"
+      ]
+    }
+  },
+  {
+    "query": "детский кеды 29 размер",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "29"
+      ]
+    }
+  },
+  {
+    "query": "жёлтый ботинки",
+    "attributes": {
+      "COLORS": [
+        "жёлтый"
+      ],
+      "CATEGORIES": [
+        "ботинки"
+      ]
+    }
+  },
+  {
+    "query": "кеды в наличии",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ]
+    }
+  },
+  {
+    "query": "постельное бельё 50x70",
+    "attributes": {
+      "CATEGORIES": [
+        "постельное бельё"
+      ],
+      "TEXTILE_DIMS": [
+        "50x70"
+      ]
+    }
+  },
+  {
+    "query": "Huawei футболка skinny бежевый",
+    "attributes": {
+      "BRANDS": [
+        "Huawei"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "skinny"
+      ],
+      "COLORS": [
+        "бежевый"
+      ]
+    }
+  },
+  {
+    "query": "Apple смартфон 8GB 6.7 дюйма",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "8GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "6.7 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "вввввв",
+    "attributes": {}
+  },
+  {
+    "query": "кеды 45р H&M коричневый",
+    "attributes": {
+      "BRANDS": [
+        "H&M"
+      ],
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "45"
+      ],
+      "COLORS": [
+        "коричневый"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi смартфон 256 гб 6.7 дюйма",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "256 гб"
+      ],
+      "SCREEN_DIAGONALS": [
+        "6.7 дюйма"
+      ]
+    }
+  },
+  {
+    "query": "upload_test_4",
+    "attributes": {}
+  },
+  {
+    "query": "сандалии 44р",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "44"
+      ]
+    }
+  },
+  {
+    "query": "детская футболка 116",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "116"
+      ]
+    }
+  },
+  {
+    "query": "Apple телефон 512GB 14 дюймов",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "512GB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "14 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "графитовый телевизор Apple",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "COLORS": [
+        "графитовый"
+      ],
+      "CATEGORIES": [
+        "телевизор"
+      ]
+    }
+  },
+  {
+    "query": "РУБАШКА",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ]
+    }
+  },
+  {
+    "query": "XL Adidas пиджак",
+    "attributes": {
+      "BRANDS": [
+        "Adidas"
+      ],
+      "CATEGORIES": [
+        "пиджак"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XL"
+      ]
+    }
+  },
+  {
+    "query": "заготовка без данных",
+    "attributes": {}
+  },
+  {
+    "query": "ноутбук 500 г",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "WEIGHT": [
+        "500 г"
+      ]
+    }
+  },
+  {
+    "query": "кроссовки S найк",
+    "attributes": {
+      "BRANDS": [
+        "Nike"
+      ],
+      "CATEGORIES": [
+        "кроссовки"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "Samsung смартфон 32GB оранжевый",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ],
+      "COLORS": [
+        "оранжевый"
+      ]
+    }
+  },
+  {
+    "query": "синтетика свитер серый",
+    "attributes": {
+      "MATERIALS": [
+        "синтетика"
+      ],
+      "COLORS": [
+        "серый"
+      ],
+      "CATEGORIES": [
+        "свитер"
+      ]
+    }
+  },
+  {
+    "query": "детские мятный лоферы размер 20",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "20"
+      ],
+      "COLORS": [
+        "мятный"
+      ]
+    }
+  },
+  {
+    "query": "из шерсть полотенце",
+    "attributes": {
+      "CATEGORIES": [
+        "полотенце"
+      ],
+      "MATERIALS": [
+        "шерсть"
+      ]
+    }
+  },
+  {
+    "query": "футболка regular fit",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_FIT": [
+        "regular fit"
+      ]
+    }
+  },
+  {
+    "query": "44 размер ботинки",
+    "attributes": {
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "44"
+      ]
+    }
+  },
+  {
+    "query": "чёрный кофта 42",
+    "attributes": {
+      "COLORS": [
+        "чёрный"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "42"
+      ]
+    }
+  },
+  {
+    "query": "L кроссовки",
+    "attributes": {
+      "CATEGORIES": [
+        "кроссовки"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "placeholder",
+    "attributes": {}
+  },
+  {
+    "query": "брюки зауженный",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "зауженный"
+      ]
+    }
+  },
+  {
+    "query": "детский куртка рост 134",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "134"
+      ]
+    }
+  },
+  {
+    "query": "термос 1 литр",
+    "attributes": {
+      "CATEGORIES": [
+        "термос"
+      ],
+      "VOLUME": [
+        "1 литр"
+      ]
+    }
+  },
+  {
+    "query": "Tommy Hilfiger антрацит 37р лоферы",
+    "attributes": {
+      "BRANDS": [
+        "Tommy Hilfiger"
+      ],
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "37"
+      ],
+      "COLORS": [
+        "антрацит"
+      ]
+    }
+  },
+  {
+    "query": "простыня размер 150x200",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "150x200"
+      ]
+    }
+  },
+  {
+    "query": "сандалии 45р",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "45"
+      ]
+    }
+  },
+  {
+    "query": "детские мокасины размер 21",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "21"
+      ]
+    }
+  },
+  {
+    "query": "пустой запрос",
+    "attributes": {}
+  },
+  {
+    "query": "zzxq8812",
+    "attributes": {}
+  },
+  {
+    "query": "детские сапоги размер 20",
+    "attributes": {
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "20"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi планшет 16GB зелёный",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "16GB"
+      ],
+      "COLORS": [
+        "зелёный"
+      ]
+    }
+  },
+  {
+    "query": "бутылка для воды 2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "бутылка для воды"
+      ],
+      "VOLUME": [
+        "2 л"
+      ]
+    }
+  },
+  {
+    "query": "рубашка эс размер",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi телефон 1TB 32\"",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "телефон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "1TB"
+      ],
+      "SCREEN_DIAGONALS": [
+        "32\""
+      ]
+    }
+  },
+  {
+    "query": "хаки холодильник",
+    "attributes": {
+      "COLORS": [
+        "хаки"
+      ],
+      "CATEGORIES": [
+        "холодильник"
+      ]
+    }
+  },
+  {
+    "query": "брюки прямой крой",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "прямой крой"
+      ]
+    }
+  },
+  {
+    "query": "телевизор 32\"",
+    "attributes": {
+      "CATEGORIES": [
+        "телевизор"
+      ],
+      "SCREEN_DIAGONALS": [
+        "32\""
+      ]
+    }
+  },
+  {
+    "query": "артикул 12345XZ",
+    "attributes": {}
+  },
+  {
+    "query": "Under Armour",
+    "attributes": {
+      "BRANDS": [
+        "Under Armour"
+      ]
+    }
+  },
+  {
+    "query": "детские антрацит сандалии размер 22",
+    "attributes": {
+      "CATEGORIES": [
+        "сандалии"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "22"
+      ],
+      "COLORS": [
+        "антрацит"
+      ]
+    }
+  },
+  {
+    "query": "джинсы мятный размер 43",
+    "attributes": {
+      "COLORS": [
+        "мятный"
+      ],
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "43"
+      ]
+    }
+  },
+  {
+    "query": "New Balance",
+    "attributes": {
+      "BRANDS": [
+        "New Balance"
+      ]
+    }
+  },
+  {
+    "query": "Apple брюки прямой крой коричневый",
+    "attributes": {
+      "BRANDS": [
+        "Apple"
+      ],
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "прямой крой"
+      ],
+      "COLORS": [
+        "коричневый"
+      ]
+    }
+  },
+  {
+    "query": "белоснежный сумка",
+    "attributes": {
+      "COLORS": [
+        "белоснежный"
+      ],
+      "CATEGORIES": [
+        "сумка"
+      ]
+    }
+  },
+  {
+    "query": "джинсы зауженный",
+    "attributes": {
+      "CATEGORIES": [
+        "джинсы"
+      ],
+      "CLOTHING_FIT": [
+        "зауженный"
+      ]
+    }
+  },
+  {
+    "query": "Huawei смартфон 32GB бежевый",
+    "attributes": {
+      "BRANDS": [
+        "Huawei"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "32GB"
+      ],
+      "COLORS": [
+        "бежевый"
+      ]
+    }
+  },
+  {
+    "query": "футболка размер S",
+    "attributes": {
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "Puma",
+    "attributes": {
+      "BRANDS": [
+        "Puma"
+      ]
+    }
+  },
+  {
+    "query": "ЗЕЛЁНЫЙ полотенце",
+    "attributes": {
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "полотенце"
+      ]
+    }
+  },
+  {
+    "query": "лоферы детские 25",
+    "attributes": {
+      "CATEGORIES": [
+        "лоферы"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "25"
+      ]
+    }
+  },
+  {
+    "query": "S футболка Puma",
+    "attributes": {
+      "BRANDS": [
+        "Puma"
+      ],
+      "CATEGORIES": [
+        "футболка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "S"
+      ]
+    }
+  },
+  {
+    "query": "кеды размер 45",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "45"
+      ]
+    }
+  },
+  {
+    "query": "temp_upload_001",
+    "attributes": {}
+  },
+  {
+    "query": "брюки oversize",
+    "attributes": {
+      "CATEGORIES": [
+        "брюки"
+      ],
+      "CLOTHING_FIT": [
+        "oversize"
+      ]
+    }
+  },
+  {
+    "query": "без_категории_999",
+    "attributes": {}
+  },
+  {
+    "query": "оранжевый холодильник",
+    "attributes": {
+      "COLORS": [
+        "оранжевый"
+      ],
+      "CATEGORIES": [
+        "холодильник"
+      ]
+    }
+  },
+  {
+    "query": "рубашка размер 41",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "41"
+      ]
+    }
+  },
+  {
+    "query": "кофемашина коричневый адидас",
+    "attributes": {
+      "BRANDS": [
+        "Adidas"
+      ],
+      "COLORS": [
+        "коричневый"
+      ],
+      "CATEGORIES": [
+        "кофемашина"
+      ]
+    }
+  },
+  {
+    "query": "образец для проверки",
+    "attributes": {}
+  },
+  {
+    "query": "нулевой артикул abc",
+    "attributes": {}
+  },
+  {
+    "query": "планшет 16GB",
+    "attributes": {
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "16GB"
+      ]
+    }
+  },
+  {
+    "query": "Reebok детская платье 98 черный",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "98"
+      ],
+      "COLORS": [
+        "черный"
+      ],
+      "BRANDS": [
+        "Reebok"
+      ]
+    }
+  },
+  {
+    "query": "простыня 90x200 лен бордовый",
+    "attributes": {
+      "CATEGORIES": [
+        "простыня"
+      ],
+      "TEXTILE_DIMS": [
+        "90x200"
+      ],
+      "COLORS": [
+        "бордовый"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "Xiaomi планшет 8GB черный",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "8GB"
+      ],
+      "COLORS": [
+        "чёрный"
+      ]
+    }
+  },
+  {
+    "query": "бутылка для воды 1.2 л",
+    "attributes": {
+      "CATEGORIES": [
+        "бутылка для воды"
+      ],
+      "VOLUME": [
+        "1.2 л"
+      ]
+    }
+  },
+  {
+    "query": "смартфон блэк Mango",
+    "attributes": {
+      "BRANDS": [
+        "Mango"
+      ],
+      "COLORS": [
+        "чёрный"
+      ],
+      "CATEGORIES": [
+        "смартфон"
+      ]
+    }
+  },
+  {
+    "query": "бутылка для воды 750 мл",
+    "attributes": {
+      "CATEGORIES": [
+        "бутылка для воды"
+      ],
+      "VOLUME": [
+        "750 мл"
+      ]
+    }
+  },
+  {
+    "query": "куртка для детей рост 80 хаки",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "80"
+      ],
+      "COLORS": [
+        "хаки"
+      ]
+    }
+  },
+  {
+    "query": "Lenovo планшет 64GB зеленый",
+    "attributes": {
+      "BRANDS": [
+        "Lenovo"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "64GB"
+      ],
+      "COLORS": [
+        "зеленый"
+      ]
+    }
+  },
+  {
+    "query": "новый тестовый артикул",
+    "attributes": {}
+  },
+  {
+    "query": "постельное бельё 145x215 см",
+    "attributes": {
+      "CATEGORIES": [
+        "постельное бельё"
+      ],
+      "TEXTILE_DIMS": [
+        "145x215 см"
+      ]
+    }
+  },
+  {
+    "query": "test_category_upload",
+    "attributes": {}
+  },
+  {
+    "query": "бамбук наволочка жёлтый 200x220",
+    "attributes": {
+      "CATEGORIES": [
+        "наволочка"
+      ],
+      "TEXTILE_DIMS": [
+        "200x220"
+      ],
+      "COLORS": [
+        "жёлтый"
+      ],
+      "MATERIALS": [
+        "бамбук"
+      ]
+    }
+  },
+  {
+    "query": "весы кухонные 2 кг",
+    "attributes": {
+      "CATEGORIES": [
+        "весы кухонные"
+      ],
+      "WEIGHT": [
+        "2 кг"
+      ]
+    }
+  },
+  {
+    "query": "детские Xiaomi сапоги 32 бежевый",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "сапоги"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "32"
+      ],
+      "COLORS": [
+        "бежевый"
+      ]
+    }
+  },
+  {
+    "query": "платье р-р 46",
+    "attributes": {
+      "CATEGORIES": [
+        "платье"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "46"
+      ]
+    }
+  },
+  {
+    "query": "Samsung планшет 16GB фиолетовый",
+    "attributes": {
+      "BRANDS": [
+        "Samsung"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ],
+      "ELECTRONICS_MEMORY": [
+        "16GB"
+      ],
+      "COLORS": [
+        "фиолетовый"
+      ]
+    }
+  },
+  {
+    "query": "КРОССОВКИ",
+    "attributes": {
+      "CATEGORIES": [
+        "кроссовки"
+      ]
+    }
+  },
+  {
+    "query": "монитор экран 15.6 дюймов",
+    "attributes": {
+      "CATEGORIES": [
+        "монитор"
+      ],
+      "SCREEN_DIAGONALS": [
+        "15.6 дюймов"
+      ]
+    }
+  },
+  {
+    "query": "свитер прямой крой",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_FIT": [
+        "прямой крой"
+      ]
+    }
+  },
+  {
+    "query": "толстовка р-р 48",
+    "attributes": {
+      "CATEGORIES": [
+        "толстовка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "48"
+      ]
+    }
+  },
+  {
+    "query": "кофта белоснежный размер 38",
+    "attributes": {
+      "COLORS": [
+        "белоснежный"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "38"
+      ]
+    }
+  },
+  {
+    "query": "смартфон 6.1\"",
+    "attributes": {
+      "CATEGORIES": [
+        "смартфон"
+      ],
+      "SCREEN_DIAGONALS": [
+        "6.1\""
+      ]
+    }
+  },
+  {
+    "query": "товар без описания",
+    "attributes": {}
+  },
+  {
+    "query": "пример карточки",
+    "attributes": {}
+  },
+  {
+    "query": "из шёлк рубашка",
+    "attributes": {
+      "CATEGORIES": [
+        "рубашка"
+      ],
+      "MATERIALS": [
+        "шёлк"
+      ]
+    }
+  },
+  {
+    "query": "ботинки Uniqlo 37р синий",
+    "attributes": {
+      "BRANDS": [
+        "Uniqlo"
+      ],
+      "CATEGORIES": [
+        "ботинки"
+      ],
+      "SHOE_SIZES_ADULT": [
+        "37"
+      ],
+      "COLORS": [
+        "синий"
+      ]
+    }
+  },
+  {
+    "query": "пиджак в наличии",
+    "attributes": {
+      "CATEGORIES": [
+        "пиджак"
+      ]
+    }
+  },
+  {
+    "query": "жёлтый планшет",
+    "attributes": {
+      "COLORS": [
+        "жёлтый"
+      ],
+      "CATEGORIES": [
+        "планшет"
+      ]
+    }
+  },
+  {
+    "query": "лен постельное бельё",
+    "attributes": {
+      "CATEGORIES": [
+        "постельное бельё"
+      ],
+      "MATERIALS": [
+        "лен"
+      ]
+    }
+  },
+  {
+    "query": "M юбка Xiaomi",
+    "attributes": {
+      "BRANDS": [
+        "Xiaomi"
+      ],
+      "CATEGORIES": [
+        "юбка"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "M"
+      ]
+    }
+  },
+  {
+    "query": "L свитер",
+    "attributes": {
+      "CATEGORIES": [
+        "свитер"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "L"
+      ]
+    }
+  },
+  {
+    "query": "Lenovo детская комбинезон 86 голубой",
+    "attributes": {
+      "CATEGORIES": [
+        "комбинезон"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "86"
+      ],
+      "COLORS": [
+        "голубой"
+      ],
+      "BRANDS": [
+        "Lenovo"
+      ]
+    }
+  },
+  {
+    "query": "акрил подушка зелёный",
+    "attributes": {
+      "MATERIALS": [
+        "акрил"
+      ],
+      "COLORS": [
+        "зелёный"
+      ],
+      "CATEGORIES": [
+        "подушка"
+      ]
+    }
+  },
+  {
+    "query": "ноутбук 12.9\"",
+    "attributes": {
+      "CATEGORIES": [
+        "ноутбук"
+      ],
+      "SCREEN_DIAGONALS": [
+        "12.9\""
+      ]
+    }
+  },
+  {
+    "query": "темно-синий кофта",
+    "attributes": {
+      "COLORS": [
+        "темно-синий"
+      ],
+      "CATEGORIES": [
+        "кофта"
+      ]
+    }
+  },
+  {
+    "query": "детская белоснежный куртка 122",
+    "attributes": {
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_KIDS_GROTH": [
+        "122"
+      ],
+      "COLORS": [
+        "белый"
+      ]
+    }
+  },
+  {
+    "query": "Uniqlo",
+    "attributes": {
+      "BRANDS": [
+        "Uniqlo"
+      ]
+    }
+  },
+  {
+    "query": "XXL кофта",
+    "attributes": {
+      "CATEGORIES": [
+        "кофта"
+      ],
+      "CLOTHING_SIZES_LETTER": [
+        "XXL"
+      ]
+    }
+  },
+  {
+    "query": "детские серый кеды размер 22",
+    "attributes": {
+      "CATEGORIES": [
+        "кеды"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "22"
+      ],
+      "COLORS": [
+        "серый"
+      ]
+    }
+  },
+  {
+    "query": "46р куртка чёрный",
+    "attributes": {
+      "COLORS": [
+        "чёрный"
+      ],
+      "CATEGORIES": [
+        "куртка"
+      ],
+      "CLOTHING_SIZES_NUMERIC": [
+        "46"
+      ]
+    }
+  },
+  {
+    "query": "пуховик",
+    "attributes": {
+      "CATEGORIES": [
+        "пуховик"
+      ]
+    }
+  },
+  {
+    "query": "пустышка 000",
+    "attributes": {}
+  },
+  {
+    "query": "детские белый мокасины размер 28",
+    "attributes": {
+      "CATEGORIES": [
+        "мокасины"
+      ],
+      "SHOE_SIZES_KIDS": [
+        "28"
+      ],
+      "COLORS": [
+        "белый"
+      ]
+    }
+  }
+]
